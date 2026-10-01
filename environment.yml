@@ -1,0 +1,17 @@
+name: hyperspectral
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - pillow
+  - pip
+  - pip:
+    - spectral
+    - streamlit>=1.35.0
+    - plotly>=5.20.0
+    - rasterio
