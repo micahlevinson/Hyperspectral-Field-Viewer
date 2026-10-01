@@ -4,7 +4,7 @@ A browser-based tool for exploring UAV hyperspectral imagery in agricultural set
 Load ENVI BSQ/HDR files, visualize vegetation indices, inspect pixel and polygon spectra,
 and pull field-wide statistics — no GIS software or coding required.
 
-Built by the [UC Davis Crop Sensing Group](https://cropscience.ucdavis.edu) (Department of Viticulture and Enology).
+Built by the Micah Levinson as part of the [UC Davis Crop Sensing Group](https://cropscience.ucdavis.edu) (Department of Viticulture and Enology).
 
 ---
 
@@ -273,8 +273,7 @@ a feature, please open an issue on GitHub with:
 
 ## Citation / Acknowledgments
 
-If you use this tool in published research, please acknowledge the
-UC Davis Crop Sensing Group, Department of Viticulture and Enology.
+If you use this tool in published research, please acknowledge Micah Levinsona and the UC Davis Crop Sensing Group, Department of Viticulture and Enology.
 
 ---
 
